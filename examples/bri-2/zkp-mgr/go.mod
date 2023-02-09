@@ -6,8 +6,7 @@ require (
 	github.com/aws/aws-sdk-go v1.36.19 // indirect
 	github.com/consensys/gnark v0.4.0
 	github.com/consensys/gnark-crypto v0.4.1-0.20210428083642-6bd055b79906
-	github.com/gin-gonic/gin v1.6.3
-	github.com/go-playground/validator/v10 v10.4.1 // indirect
+	github.com/gin-gonic/gin v1.7.7
 	github.com/joho/godotenv v1.3.0
 	github.com/json-iterator/go v1.1.10 // indirect
 	github.com/klauspost/compress v1.11.4 // indirect
