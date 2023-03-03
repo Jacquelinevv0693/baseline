@@ -26,7 +26,7 @@
     "@baseline-protocol/messaging": "0.1.0",
     "@baseline-protocol/privacy": "0.1.0",
     "@baseline-protocol/types": "0.1.0",
-    "truffle": "^5.3.14"
+    "truffle": "^5.7.9"
   },
   "devDependencies": {
     "jest": "^27.2.3",
