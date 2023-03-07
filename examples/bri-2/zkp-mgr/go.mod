@@ -10,11 +10,9 @@ require (
 	github.com/go-playground/validator/v10 v10.4.1 // indirect
 	github.com/joho/godotenv v1.3.0
 	github.com/json-iterator/go v1.1.10 // indirect
-	github.com/klauspost/compress v1.11.4 // indirect
 	github.com/leodido/go-urn v1.2.1 // indirect
-	github.com/nats-io/jwt v1.2.2 // indirect
-	github.com/nats-io/nats-server/v2 v2.1.9 // indirect
-	github.com/nats-io/nats.go v1.10.0
+	github.com/nats-io/nats-server/v2 v2.7.4 // indirect
+	github.com/nats-io/nats.go v1.13.1-0.20220308171302-2f2f6968e98d
 	github.com/pborman/uuid v1.2.1
 	github.com/ugorji/go v1.2.2 // indirect
 	go.mongodb.org/mongo-driver v1.4.4
